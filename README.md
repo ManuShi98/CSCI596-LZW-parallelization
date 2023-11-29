@@ -10,6 +10,8 @@ The algorithm has two parts: Encode and decode.
 ### Encode
 ![lzw-encode](https://github.com/ManuShi98/CSCI596-LZW-parallelization/blob/master/Picture/lzw-encode.png?raw=true)
 
+![example](https://github.com/ManuShi98/CSCI596-LZW-parallelization/blob/master/Picture/compress-example.jpg?raw=true)
+Example from https://www.youtube.com/watch?v=nW7OARbr7OI
 ### Decode
 ![lzw-decode](https://github.com/ManuShi98/CSCI596-LZW-parallelization/blob/master/Picture/lzw-decode.jpg?raw=true)
 
